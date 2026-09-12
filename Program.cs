@@ -10,8 +10,10 @@ namespace THUCHANH01
             //b1.Chaybai1();
             //Bai2 bai2 = new Bai2();
             //bai2.Chaybai2();
-            Bai3 bai3 = new Bai3();
-            bai3.Chaybai3();
+            //Bai3 bai3 = new Bai3();
+            //bai3.Chaybai3();
+            Bai5 b5 = new Bai5();
+            b5.Chaybai5();
             Console.ReadLine();
         }
     }
